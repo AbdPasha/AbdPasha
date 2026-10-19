@@ -11,4 +11,4 @@ Mahasiswa D3 Keuangan dan Perbankan (semester 1).
 Proyek-proyek saya akan ditambahkan di sini seiring proses belajar.
 
 ## Kontak
-- LinkedIn:Abdurrahman Pasha(www.linkedin.com/in/abdurrahman-pasha-241104413).
+- LinkedIn:[Abdurrahman Pasha](www.linkedin.com/in/abdurrahman-pasha-241104413).
