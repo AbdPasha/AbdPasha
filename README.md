@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, saya Abdurrahman Pasha 👋
 
-<!--
-**AbdPasha/AbdPasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa D3 Keuangan dan Perbankan (semester 1).
 
-Here are some ideas to get you started:
+## Yang sedang saya pelajari
+- Python
+- Microsoft Excel
+- Dasar-dasar akuntansi dan keuangan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek
+Proyek-proyek saya akan ditambahkan di sini seiring proses belajar.
+
+## Kontak
+- LinkedIn:Abdurrahman Pasha(www.linkedin.com/in/abdurrahman-pasha-241104413).
